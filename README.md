@@ -1,6 +1,7 @@
 # 三省六部制 AI Agent 架构
 
 > 基于唐朝三省六部制设计的 AI Agent 架构，实现「规划→审核→执行→回奏」的完整工作流程。
+> 专为 [Hanako](https://github.com/lilimozi/openhanako) AI 助手项目设计。
 
 ---
 
